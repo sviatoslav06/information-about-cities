@@ -1,0 +1,9 @@
+ul {
+    text-align: left;
+    font-size: large;
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 10px;
+}
